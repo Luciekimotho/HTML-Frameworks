@@ -13,6 +13,8 @@ Frontend frameworks usually consist of a package made up of a structure of files
 3. Get Skeleton
 4. Montage JS
 5. Zebra
+
+
 #####CSS Frameworks
 1. Bootstrap
 2. Susy
@@ -27,7 +29,8 @@ Frontend frameworks usually consist of a package made up of a structure of files
 1. Speed of installation
 2. Available options
 3. Ease of understanding
-4. integraton with other systems
+4. integraton with other systems 
+
 ####Advantages of using Frameworks
 1. Speeds up the website creation process
 2. The code is neat and tidy
