@@ -35,6 +35,7 @@ Frontend frameworks usually consist of a package made up of a structure of files
 1. Speeds up the website creation process
 2. The code is neat and tidy
 3. Browser compatibility
+
 ####Disadvantages
 1. You don't learn how to do it yourself
 2. Slower learning curve
